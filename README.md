@@ -1,6 +1,6 @@
 # Fluxo - Automação Inteligente para PMEs
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/titorm/auto-flow-cloudfare)
 
 Fluxo is a sophisticated, AI-powered automation platform designed to empower Brazilian Small and Medium-sized Enterprises (SMEs). The application's core is a visually stunning and intuitive drag-and-drop workflow builder, supercharged by a conversational AI assistant. Users can describe their desired automation in natural Portuguese, and the AI will generate a complete workflow. The platform prioritizes deep, native integrations with essential tools for the Brazilian market, such as WhatsApp Business API, PIX payment gateways, and popular local ERP systems, making complex automation accessible to everyone.
 
@@ -104,7 +104,7 @@ This project is designed for seamless deployment to the Cloudflare global networ
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/titorm/auto-flow-cloudfare)
 
 ### Manual Deployment
 
